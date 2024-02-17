@@ -1,4 +1,9 @@
-El proyecto se encuentra en la rama "main".
+
+# Important Info
+
+The project is in the "main" branch.
+
+There are two versions. One retuns the value indicated by the exercise following the expected procedure. The second one, commented, returns the amount of a, b and c in each set, the price of the set and the total for that call to the function. Given the way I mix them I could not find a clean way to separate the number of Bs from artificial Bs, meaning those resulting from mixing As and Cs.
 
 # Empanadas price optimizer
 
