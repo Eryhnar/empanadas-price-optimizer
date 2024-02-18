@@ -14,7 +14,7 @@ This was a logic project for an FSD course at GeeksHubs Academy. The project con
 - [Stack](#stack)
 - [Author](#author)
 - [Development Time](#development-time)
-- [Steps]{#steps}
+- [Steps](#steps)
 
 ## Stack 
 
